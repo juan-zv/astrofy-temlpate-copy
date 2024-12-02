@@ -1,3 +1,6 @@
+# Wees Jeffrey CV page
+This page was made using the Astrofy template. It is a personal portfolio website template built with Astro and TailwindCSS. 
+
 # Astrofy | Personal Portfolio Website Template
 
 ![Astrofy | Personal Porfolio Website Template](public/social_img.webp)
